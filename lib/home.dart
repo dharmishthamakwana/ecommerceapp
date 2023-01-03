@@ -11,8 +11,7 @@ class Home extends StatefulWidget {
 
 class _HomeState extends State<Home> {
   List itemslist = [
-    "Samsung Galaxy A04e",
-    "Redmi A1",
+
     "OnePlus Nord 2T 5G",
     "OPPO A31",
     "Nothing Phone (1) 5G",
@@ -20,10 +19,10 @@ class _HomeState extends State<Home> {
     "Samsung Galaxy S20 FE 5G",
     "Apple iPhone 14 Pro Max",
     "Apple iPhone 13",
-    "Vivo V23 5G"
+
   ];
   List itemsimages = [
-    "assets/images/iphone13.jpg",
+
     "assets/images/iphone14pro.jpg",
     "assets/images/nothinga31.jpg",
     "assets/images/oneplusnord.jpg",
@@ -42,9 +41,7 @@ class _HomeState extends State<Home> {
     '29,884',
     '6,999',
     '37,990',
-    '1,39,900',
-    '69,900',
-    '27,139'
+
   ];
   List storage = [
     "4GB RAM, 128GB Storage Upto 8GB RAM",
@@ -54,9 +51,7 @@ class _HomeState extends State<Home> {
     "Black, 128 GB,8 GB RAM",
     "Carbon Black, 2GB RAM+32GB Storage",
     "Cloud Mint, 8GB RAM, 128GB Storage",
-    "128GB Space Black",
-    "128GB Storage- Pink",
-    "Stardust Black, 8GB RAM 128GB Storage"
+
   ];
   List dime = [
     "0.9x8.4x16.4 cm; 188 G",
@@ -66,9 +61,7 @@ class _HomeState extends State<Home> {
     "17x16x1 cm; 460 G",
     "16.5x7.6x0.9 cm; 195 G",
     "0.84x7.45x15.98 cm; 190 G",
-    "6.7x3.05x0.31 inch;240 G",
-    "15.5x13.7x17 cm;174 G",
-    "15.7x7.2x0.7 cm; 179 G"
+
   ];
 
   @override
